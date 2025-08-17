@@ -36,39 +36,38 @@ export function App() {
               </a>
             </div>
             <div className="flex flex-col p-4 gap-4 max-w-7xl mx-auto">
-              <p className="mt-4">Updated on: 1/12/2025</p>
+              <p className="mt-4">Updated on: 8/17/2025</p>
               <h3 className="mt-4 text-xl font-semibold">Short Bio</h3>
               <p>
-                I am pursuing my graduate studies in Systems Modeling & Data
-                Analytics at Amirkabir University of Technology (Tehran
-                Polytechnic), where my academic focus converges on machine
-                learning, applied statistics, and optimization methodologies. My
-                commitment to advancing my expertise in these domains has led me
-                to complete several specialized courses in machine learning,
-                deep learning, and large language models through Stanford
-                University and DeepLearning.AI's comprehensive programs on
-                Coursera. Concurrently, I have been actively engaged in various
-                university research initiatives, applying theoretical knowledge
-                to practical implementations.
-              </p>
-              <p>
-                My technical journey began with web development, mastering HTML,
-                CSS, and JavaScript during my formative years, which later
-                evolved into proficiency in TypeScript and Dart for
-                cross-platform development. This foundation in programming,
-                coupled with my current focus on machine learning, has enabled
-                me to develop extensive expertise in Python and its ecosystem,
-                which I leverage extensively in my academic research and project
-                implementations.
+                Industrial Engineering Master's student at Amirkabir University
+                of Technology (Tehran Polytechnic) specializing in Systems
+                Modeling and Data Analytics, with a passion for leveraging
+                machine learning, reinforcement learning, and optimization to
+                solve complex problems in intelligent systems and
+                decision-making under uncertainty. Holding a B.Sc. in Industrial
+                Engineering with a 3.74 GPA, I've conducted research on
+                AI-generated image classification and am currently exploring
+                real-time road network optimization via RL for my thesis. As a
+                Front-End Engineer at Barsam Smart Market Development, I
+                contribute to cloud ERP and e-commerce platforms handling
+                high-volume transactions, while my internship at the Ministry of
+                Agriculture involved digitizing legacy records and building data
+                pipelines. Experienced in Python (NumPy, Pandas, TensorFlow,
+                PyTorch), Dart, SQL, and tools like Power BI, I've developed
+                projects including a CNN for waste classification, rule-based
+                movie recommenders, and simulation-based hospital staffing
+                optimization. Certified in Deep Learning and Machine Learning
+                from Coursera, I'm eager to connect on innovative applications
+                of AI and data-driven strategies in industry.
               </p>
               <h3 className="mt-4 text-xl font-semibold">Research Interests</h3>
               <ul className="list-disc list-inside">
-                <li>Applied Machine Learning</li>
+                <li>Stochastic and Robust Optimization</li>
+                <li>Machine Learning and Reinforcement Learning</li>
                 <li>Decision Making under Uncertainty</li>
-                <li>Stochastic Optimization</li>
-                <li>Information Systems</li>
+                <li>Intelligent Systems</li>
               </ul>
-              <h3 className="mt-4 text-xl font-semibold">Honors & Awards</h3>
+              <h3 className="mt-4 text-xl font-semibold">Honors and Awards</h3>
               <ul className="list-disc list-inside">
                 <li>
                   Awarded full government tuition scholarship for Master of

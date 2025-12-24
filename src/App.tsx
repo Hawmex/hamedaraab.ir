@@ -36,35 +36,44 @@ export function App() {
               </a>
             </div>
             <div className="flex flex-col p-4 gap-4 max-w-7xl mx-auto">
-              <p className="mt-4">Updated on: 8/17/2025</p>
+              <p className="mt-4">Updated on: 12/24/2025</p>
               <h3 className="mt-4 text-xl font-semibold">Short Bio</h3>
               <p>
-                Industrial Engineering Master's student at Amirkabir University
-                of Technology (Tehran Polytechnic) specializing in Systems
-                Modeling and Data Analytics, with a passion for leveraging
-                machine learning, reinforcement learning, and optimization to
-                solve complex problems in intelligent systems and
-                decision-making under uncertainty. Holding a B.Sc. in Industrial
-                Engineering with a 3.74 GPA, I've conducted research on
-                AI-generated image classification and am currently exploring
-                real-time road network optimization via RL for my thesis. As a
-                Front-End Engineer at Barsam Smart Market Development, I
-                contribute to cloud ERP and e-commerce platforms handling
-                high-volume transactions, while my internship at the Ministry of
-                Agriculture involved digitizing legacy records and building data
-                pipelines. Experienced in Python (NumPy, Pandas, TensorFlow,
-                PyTorch), Dart, SQL, and tools like Power BI, I've developed
-                projects including a CNN for waste classification, rule-based
-                movie recommenders, and simulation-based hospital staffing
-                optimization. Certified in Deep Learning and Machine Learning
-                from Coursera, I'm eager to connect on innovative applications
-                of AI and data-driven strategies in industry.
+                Industrial Engineer and researcher specializing in optimization,
+                machine learning, and intelligent systems, with a focus on
+                data-driven decision-making under uncertainty. Currently
+                pursuing my Master's degree in Systems Modeling and Data
+                Analytics at Amirkabir University of Technology (Tehran
+                Polytechnic), where I maintain a 3.7 GPA and conduct research on
+                real-time optimization of transportation networks using
+                reinforcement learning. My academic foundation combines rigorous
+                coursework in stochastic processes, machine learning, and
+                optimization with hands-on research experience, including
+                computer vision work on AI-generated image classification and
+                teaching assistance in data mining and artificial intelligence
+                courses.
+              </p>
+              <p>
+                My research interests center on stochastic optimization, robust
+                optimization, and machine learning applications in intelligent
+                systems. Beyond academia, I've applied technical expertise as a
+                Front-End Engineer at Barsam Smart Market Development,
+                contributing to cloud ERP systems and business intelligence
+                dashboards for Iran's largest automotive manufacturers.
+                Proficient in Python (NumPy, Pandas, TensorFlow, PyTorch,
+                scikit-learn), statistical modeling, and business analytics, my
+                project portfolio spans CNN-based waste classification,
+                discrete-event simulation for hospital optimization, and
+                multi-objective production planning. I'm passionate about
+                advancing management science through rigorous quantitative
+                methods and welcome opportunities to collaborate on research
+                addressing complex operational challenges.
               </p>
               <h3 className="mt-4 text-xl font-semibold">Research Interests</h3>
               <ul className="list-disc list-inside">
-                <li>Stochastic and Robust Optimization</li>
-                <li>Machine Learning and Reinforcement Learning</li>
-                <li>Decision Making under Uncertainty</li>
+                <li>Stochastic Optimization</li>
+                <li>Robust Optimization</li>
+                <li>Machine Learning</li>
                 <li>Intelligent Systems</li>
               </ul>
               <h3 className="mt-4 text-xl font-semibold">Honors and Awards</h3>

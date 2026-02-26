@@ -17,8 +17,7 @@ export function App() {
               <h2 className="text-2xl font-bold">Hamed Araab</h2>
               <span>
                 Systems Modeling & Data Analytics Student @ Amirkabir University
-                of Technology (Tehran Polytechnic) | AI Engineer | Data
-                Scientist | Front-End Engineer
+                of Technology (Tehran Polytechnic)
               </span>
             </div>
             <div className="flex flex-row gap-4 mx-auto">
@@ -36,7 +35,7 @@ export function App() {
               </a>
             </div>
             <div className="flex flex-col p-4 gap-4 max-w-7xl mx-auto">
-              <p className="mt-4">Updated on: 12/24/2025</p>
+              <p className="mt-4">Updated on: 02/26/2026</p>
               <h3 className="mt-4 text-xl font-semibold">Short Bio</h3>
               <p>
                 Industrial Engineer and researcher specializing in optimization,
@@ -44,8 +43,8 @@ export function App() {
                 data-driven decision-making under uncertainty. Currently
                 pursuing my Master's degree in Systems Modeling and Data
                 Analytics at Amirkabir University of Technology (Tehran
-                Polytechnic), where I maintain a 3.7 GPA and conduct research on
-                real-time optimization of transportation networks using
+                Polytechnic), where I maintain a 3.65 GPA and conduct research
+                on real-time optimization of transportation networks using
                 reinforcement learning. My academic foundation combines rigorous
                 coursework in stochastic processes, machine learning, and
                 optimization with hands-on research experience, including
@@ -71,9 +70,9 @@ export function App() {
               </p>
               <h3 className="mt-4 text-xl font-semibold">Research Interests</h3>
               <ul className="list-disc list-inside">
+                <li>Sequential Decision-Making Under Uncertainty</li>
                 <li>Stochastic Optimization</li>
                 <li>Robust Optimization</li>
-                <li>Machine Learning</li>
                 <li>Intelligent Systems</li>
               </ul>
               <h3 className="mt-4 text-xl font-semibold">Honors and Awards</h3>

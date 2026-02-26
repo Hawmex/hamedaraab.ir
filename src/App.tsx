@@ -56,7 +56,7 @@ export function App() {
                 My research interests center on stochastic optimization, robust
                 optimization, and machine learning applications in intelligent
                 systems. Beyond academia, I've applied technical expertise as a
-                Front-End Engineer at Barsam Smart Market Development,
+                Front-End Engineer at Barsam Intelligent Market Development,
                 contributing to cloud ERP systems and business intelligence
                 dashboards for Iran's largest automotive manufacturers.
                 Proficient in Python (NumPy, Pandas, TensorFlow, PyTorch,
